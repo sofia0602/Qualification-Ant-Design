@@ -26,7 +26,6 @@ const Home = () => {
         style={{
           textAlign: "center",
           backgroundColor: "#0d0f1a;",
-          color: "var(--color-white)",
         }}
       >
         ©2022 Створено студентами Нау ОА

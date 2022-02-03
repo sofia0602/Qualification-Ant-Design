@@ -12,7 +12,7 @@
 .card-grid {
   position: relative;
   height: 200px;
-  border: 1px solid rgba(109, 177, 242, 0.3) !important;
+  /* border: 1px solid rgba(109, 177, 242, 0.3) !important; */
   padding: 15px !important;
   background-color: rgba(240, 240, 240, 0.43);
 }
